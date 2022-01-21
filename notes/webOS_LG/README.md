@@ -1,9 +1,7 @@
-[+]LunaServices
-========================================================
+# LunaServices
 
-	[+]Manifests.d
-	======================
-	
+## Manifests.d
+
 		{
 			"id": "acr2",
 			"version": "1.0.0",
@@ -3086,10 +3084,8 @@
 		}
 
 
-	[+]api-permissions.d
-	======================	
-	
-	
+## api-permissions.d
+
 		{
 			"activities.callbacks": [
 				"com.palm.bus/signal/registerServerStatus",
@@ -16607,8 +16603,7 @@
 		  ]
 		}
 	
-	[+]roleFiles
-	========================
+## roleFiles
 	
 	
 		{
@@ -20619,8 +20614,7 @@
 	
 	
 	
-	[+]roleFilesPub
-	======================	
+## roleFilesPub
 	
 		{
 			"role": {
@@ -22174,8 +22168,7 @@
 	
 
 
-	[+]roleFilesPrv
-	======================	
+## roleFilesPrv
 		
 		{
 			"role": {
@@ -23980,8 +23973,7 @@
 
 
 
-	[+]serviceFiles
-	====================
+## serviceFiles
 
 		[D-BUS Service]
 		Name=airplay.homekit
@@ -24736,8 +24728,7 @@
 
 
 
-	[+]clientPermissionFiles		
-	==========================
+## clientPermissionFiles		
 		
 		{
 		  "airplay.homekit": [
@@ -26770,8 +26761,7 @@
 		
 
 
-	[+]groupFiles
-	==================
+## groupFiles
 		{
 			"activities.callbacks": {
 				"description": "Trigger and Callback methods available for Activity creator",
@@ -27496,8 +27486,7 @@
 
 
 
-[+]References
-========================================================
+# References
 
 https://twitter.com/David3141593/status/1482059994057129984
 https://blog-recurity--labs-com.translate.goog/2021-02-03/webOS_Pt1.html?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es-419&_x_tr_pto=wapp
